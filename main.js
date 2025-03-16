@@ -14,6 +14,13 @@ function aumentarEdad(value) {
 }
 aumentarEdad(20);
 
+let canvas = document.createElement("canvas");
+canvas.style.background = "#cdcdcd";
+canvas.width = 1024;
+canvas.height = 512;
+document.body.appendChild(canvas);
+
+
 
 
 console.log(objecto.conjunto)
