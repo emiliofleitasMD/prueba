@@ -16,4 +16,4 @@ aumentarEdad(20);
 
 
 
-console.log(age)
+console.log(objecto.conjunto)
